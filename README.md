@@ -34,5 +34,5 @@ PyTorch seems to be nice for experimenting with algorithms and it's simple to de
 ## Results
 
 <p align="center">
-  <img src="images/results.png" width="700" title="results">
+  <img src="images/final_results.png" width="700" title="results">
 </p>
