@@ -10,6 +10,7 @@ To do so we used the pretrained CNN VGG19 and the open source Machine Learning l
 Neural style transfer is the process of:
 
 1- Taking the style of one image
+
 2- And then applying it to the content of another image
 
 The original neural style transfer algorithm was introduced by Gatys et al. in their 2015 paper : *A Neural Algorithm of Artistic Style*, in which they propose a NST algorithm that does not require a new architecture at all; instead, you can take a pre-trained network (typically on ImageNet, like VGG19 used here in our implementation) and define a loss function that will enable you to achieve your end goal of style transfer and then optimize over that loss function.
