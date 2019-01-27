@@ -28,7 +28,7 @@ VGG-19 is a convolutional neural network that is trained on more than a million 
 
 PyTorch is a Python-based, optimized, open-source deep learning library that uses both GPUs and CPUs.
 
-PyTorch seems to be nice for experimenting with algorithms and it's simple to debug. It is essentially like using Numpy with the option of using GPU acceleration if you want. It has some useful modules for neural networks, optimization and auto gradients. [2](https://www.pugetsystems.com/labs/hpc/Why-You-Should-Consider-PyTorch-includes-Install-and-a-few-examples-1193/ "pytorch")
+PyTorch seems to be nice for experimenting with algorithms and it's simple to debug. It is essentially like using Numpy with the option of using GPU acceleration if you want. It has some useful modules for neural networks, optimization and auto gradients. [[2]](https://www.pugetsystems.com/labs/hpc/Why-You-Should-Consider-PyTorch-includes-Install-and-a-few-examples-1193/ "pytorch")
 
 
 ## Results
