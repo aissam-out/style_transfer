@@ -17,7 +17,7 @@ The original neural style transfer algorithm was introduced by Gatys et al. in t
 
 ## VGG 19
 
-VGG-19 is a convolutional neural network that is trained on more than a million images from the ImageNet database. The network is 19 layers deep and can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images [1](https://www.mathworks.com/help/deeplearning/ref/vgg19.html;jsessionid=e70a2d83201fa5c8ee870d562f8e "VGG19")
+VGG-19 is a convolutional neural network that is trained on more than a million images from the ImageNet database. The network is 19 layers deep and can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images [[1]](https://www.mathworks.com/help/deeplearning/ref/vgg19.html;jsessionid=e70a2d83201fa5c8ee870d562f8e "VGG19")
 
 <p align="center">
   <img src="images/vgg19.png" width="700" title="vgg19">
